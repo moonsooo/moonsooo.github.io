@@ -1,19 +1,16 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: moonsooo@kakao.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: Thomas Vaeth
+name: MOON SOOO
 title: Moon sooo's Blog
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+url: https://nostalgic-beaver-0ad4b8.netlify.com/
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
     url: https://www.instagram.com/thomas.vaeth/
   - name: linkedin
@@ -36,7 +33,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
+  - name: MOON SOOO
     bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     url: http://thomasvaeth.com
 
