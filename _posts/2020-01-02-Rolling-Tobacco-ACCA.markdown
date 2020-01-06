@@ -24,10 +24,10 @@ Alternative Cigarette for Classical Atmosphere,
 피어오르는 담배 연기를 모티브로 디자인하였습니다.
 
 
-![Placeholder](/assets/images/acca_short.jpg)
+![Placeholder](/assets/images/acca_short.png)
 
-![Placeholder](/assets/images/acca_short_1.jpg)
+![Placeholder](/assets/images/acca_short_1.png)
 
-![Placeholder](/assets/images/acca_short_2.jpg)
+![Placeholder](/assets/images/acca_short_2.png)
 
-![Placeholder](/assets/images/acca_font.jpg)
+![Placeholder](/assets/images/acca_font.png)
